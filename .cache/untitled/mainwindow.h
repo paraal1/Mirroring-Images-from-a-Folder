@@ -13,8 +13,8 @@ QT_END_NAMESPACE
 enum Direction
 {
     Vertical = 0,
-    Both = 1,
-    Horizontal = 2
+    Both = -1,
+    Horizontal = 1
 };
 
 class MainWindow : public QMainWindow

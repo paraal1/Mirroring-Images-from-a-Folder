@@ -18,6 +18,15 @@ HEADERS += \
 FORMS += \
     mainwindow.ui
 
+INCLUDEPATH += C:\opencv\build\include
+
+LIBS += C:\opencv\opencv-build\bin\libopencv_core4100.dll
+LIBS += C:\opencv\opencv-build\bin\libopencv_highgui4100.dll
+LIBS += C:\opencv\opencv-build\bin\libopencv_imgcodecs4100.dll
+LIBS += C:\opencv\opencv-build\bin\libopencv_imgproc4100.dll
+LIBS += C:\opencv\opencv-build\bin\libopencv_features2d4100.dll
+
+
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
