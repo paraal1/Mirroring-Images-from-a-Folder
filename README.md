@@ -46,5 +46,3 @@ This C++ application provides a graphical user interface (GUI) for mirroring ima
 Instructions for setting up the project locally.
 
 ---
-
-Feel free to modify any section to better match your project's specifics!
