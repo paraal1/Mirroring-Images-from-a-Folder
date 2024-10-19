@@ -4,6 +4,10 @@
 
 This C++ application provides a graphical user interface (GUI) for mirroring images in selected folders using the Qt framework and OpenCV library. Users can choose a source folder containing images and a destination folder where the mirrored images will be saved. The application supports mirroring options, allowing users to flip images vertically, horizontally, or both.
 
+
+https://github.com/user-attachments/assets/c693843a-7faa-4d72-b88b-9244fc8882b6
+
+
 ## Features
 
 - **Folder Selection**: Users can select both a source folder and a destination folder through a file dialog.
